@@ -1,0 +1,13 @@
+{
+  "name": "validator_cluster",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./validationCluster.js >> cluster.log",
+    "development":"node ./validationCluster.js"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {}
+}
