@@ -1,0 +1,2 @@
+# baseCluster
+basic node cluster
